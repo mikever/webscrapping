@@ -1,12 +1,10 @@
 # Example Web Scrapping with Beautiful Soup
 
-## Installation
-
 - Install pipenv
-### Mac
+#### Mac
 `brew install pipenv` or `pip3 install pipenv`
 
-### Windows
+#### Windows
 `pip install pipenv`
 
 - Load pipenv environment
